@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+}
+
+.brand {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.a:hover {
+    background-color: rgba(70, 67, 67, 0.158);
+
+}
